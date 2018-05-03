@@ -7,7 +7,7 @@
 		<!-- Application resource dictionary -->
 
         <ResourceDictionary>
-            <Style TargetType="Button" x:key="btnMas">
+            <Style TargetType="Button" x:Key="BtnPanel">
                 <Setter Property="BackgroundColor" Value="Purple" ></Setter>
             </Style>
         </ResourceDictionary>

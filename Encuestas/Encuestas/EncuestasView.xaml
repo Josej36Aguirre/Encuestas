@@ -12,7 +12,8 @@
                 x:Name="btnMas" 
               ></Button>
         <StackLayout Grid.Row="1" 
-                     x:Name="Panel">
+                     x:Name="Panel"
+                     Style="{StaticResource BtnPanel}">
             
         </StackLayout>
     </Grid>
