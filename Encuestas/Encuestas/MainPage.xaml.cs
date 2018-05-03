@@ -12,6 +12,8 @@ namespace Encuestas
 		public MainPage()
 		{
 			InitializeComponent();
-		}
+            
+
+        }
 	}
 }

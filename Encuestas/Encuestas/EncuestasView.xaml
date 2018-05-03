@@ -8,8 +8,8 @@
             <RowDefinition Height="Auto"></RowDefinition>
             <RowDefinition></RowDefinition>
         </Grid.RowDefinitions>
-        <Button Text="+" 
-                x:Name="btnMas" 
+        <Button x:Name="btnMas" 
+                Text="+" 
               ></Button>
         <StackLayout Grid.Row="1" 
                      x:Name="Panel"
