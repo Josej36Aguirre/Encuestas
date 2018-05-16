@@ -12,15 +12,12 @@ namespace Encuestas
         {
             var saldo = (decimal)value;
             var color = Color.Green;
-            if (saldo < 5000)
+            var dato = 0;
+            while (dato!=0)
             {
-                color = Color.Red;
+                
             }
-            else if (saldo >= 5000 && saldo <= 10000)
-            {
-                color = Color.Orange;
-            }
-            return color;
+            return 0;
         }
 
         public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)
