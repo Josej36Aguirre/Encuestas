@@ -6,7 +6,7 @@
     <ResourceDictionary>
         <local:Datos x:Key="datosUno">
         </local:Datos>
-        <local:Converter x:Key="convertirSaldo">
+        <local:Converter x:Key="C">
         </local:Converter>
         <DataTemplate x:Key="listTemplate">
             <ViewCell>
