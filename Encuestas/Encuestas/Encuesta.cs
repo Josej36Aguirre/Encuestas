@@ -11,6 +11,7 @@ namespace Encuestas
         public DateTime FechaNacimiento { get; set; }
         public String EquipoFavorito { get; set; }
         #endregion
+       
         #region Metodo
         public override string ToString()
         {

@@ -23,7 +23,7 @@
                 <Label x:Name="LbEquipoFav"/>
                 <Button Grid.Column="1" 
                         x:Name="BtAgregarEq" 
-                        Text="..."/>
+                        Text="Equipo"/>
                 
             </Grid>
         </StackLayout>
